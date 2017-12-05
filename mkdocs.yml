@@ -6,5 +6,5 @@ repo_url: https://github.com/thePortus/his4936-starter/
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
-- Historiography: "historiograhpy.md"
+- Historiography: "Historiography.md"
 - Credits: 'credits.md'
