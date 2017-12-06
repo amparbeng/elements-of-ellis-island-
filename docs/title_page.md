@@ -1,6 +1,5 @@
- # Halls of Ellis Island
+# Elements of Ellis Island
 
+![Ellis Island Main Building](imgs/IMG-0099.JPG)
 
-![Main Hall of Ellis Island](imgs/IMG-0071.JPG)
-
-![Trial and Board Room](imgs/IMG-0073.JPG)
+A Database covering the Immigrants of Ellis Island.
