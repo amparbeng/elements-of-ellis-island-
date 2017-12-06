@@ -1,14 +1,6 @@
- # Eric Noah
+ # Halls of Ellis Island
 
 
-[Hacking History Workbook](http://hacking-history)
+[Main Hall of Ellis Island]()
 
-![This is Caesar](imgs/included/caesarian_code.png)
-
-1. First
-2. Second
-3. Third
-4. Fourth
-5. Fifth
-
-    
+![Trial and Board Room]()

@@ -1,5 +1,5 @@
 # Elements of Ellis Island
 
-![Elements of Ellis Island](imgs/included/caesarian_code.png)
+![Elements of Ellis Island](imgs/IMG-0099.jpg)
 
 A Database covering the Immigrants of Ellis Island.
