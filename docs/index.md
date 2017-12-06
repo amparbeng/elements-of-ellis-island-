@@ -1,5 +1,5 @@
 # Project Starter Template
 
-![Caesar in the Code](imgs/included/caesarian_code.png)
+![Elements of Ellis Island](imgs/included/caesarian_code.png)
 
-Welcome to the project started template. Edit me to make your first changes.
+A Database covering the Immigrants of Ellis Island.
