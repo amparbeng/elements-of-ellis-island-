@@ -29,7 +29,7 @@ One of the blatant discrepancies in this image involves immigrant records who we
 Checking the dataset, the Mendozas listed as American citizens came from ports in Cuba, Puerto Rico, Panama, France and England; Noah ‘American’ passengers arrived from departure ports in Puerto Rico, England, Scotland, Belgium, Germany, France, Croatia and Panama; and one Waitman identified as American came from Southampton, England. It cannot be assumed nor determined what these persons’ nationalities were since immigrants often came to Ellis Island from departure ports not within their respective homelands. Another disparity in the depiction is that not every box contains an identification or a numerical value for each nationality, presumably due to lack of space.
 Consequently, this makes the majority of Waitman immigrants appear to have been Russian Jews based on box size and color, when actually most were from the British Isles.
 
-![Departure Ports](imgs/departure_ports_color.png)
+![Departure Ports](imgs/popular_departureports_nationalities.png)
 
 A noticeable example is with the Mendoza Cubans who appear to have primarily used ports in Cuba such as Havana, Antilla and Santiago to migrate to Ellis Island. Nonetheless, some came from ports in Mexico, England, France and Spain.
 Other clear examples are demonstrated by the Noah Syrians who came to New York from ports in England, France and Panama, as well as by the Waitman Russian Jews who departed from ports in England, the Netherlands and Belgium.
